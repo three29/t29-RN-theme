@@ -1,0 +1,8 @@
+{
+	"name": "t29-RN-theme",
+	"version": "0.0.1",
+	"description": "T29 Custom React Native Template",
+	"repository": "git@github.com:three29/t29-RN-theme.git",
+	"author": "Brent Hoskins <bhoskins@three29.com>",
+	"license": "MIT"
+}
